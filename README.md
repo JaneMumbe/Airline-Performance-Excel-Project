@@ -38,13 +38,13 @@ I did a sample of 1000 rows for my analysis. I used 9 columns, which included va
 
 # Results
 
-![airlinesVSdelay](Images\airlinesVSdelay.jpg)
+![AirlinesvsDelay](Images\Airlines_vs_delay.jpg)
 
-![daysoftheweekVSflights](Images\daysoftheweekVSflights.jpg)
+![DaysoftheweekvsFlights](Images\Daysoftheweek_vs_no._flights.jpg)
 
-![Average Length vs Route](Images/AverageLengthBYroute.jpg)
+![Routes vs Flighttime](Images\Routes_vs_flighttime.jpg)
 
-![On time Perfomance](Images\ontimeperfomance.jpg)
+![Airline on time Perfomance](Images\Airlineontimeperfomance.jpg)
 
 # Conclusion
 
