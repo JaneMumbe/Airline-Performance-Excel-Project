@@ -1,6 +1,6 @@
 # Airlines Perfomance
 
-![Aircraft](Images\Aircraft_image.jpg)
+![Aircraft](./Images/Aircraft_image.jpg)
 
 # Overview
 This project focuses on analyzing flight data to uncover operational inefficiencies and support strategic decision-making within the airline industry. I aim to answer key 
@@ -38,13 +38,13 @@ I did a sample of 1000 rows for my analysis. I used 9 columns, which included va
 
 # Results
 
-![AirlinesvsDelay](Images\Airlines_vs_delay.jpg)
+![AirlinesvsDelay](./Images/Airlines_vs_delay.jpg)
 
-![DaysoftheweekvsFlights](Images\Dayoftheweek_vs_no._of_flights.jpg)
+![DaysoftheweekvsFlights](./Images/Dayoftheweek_vs_no._of_flights.jpg)
 
-![Routes vs Flighttime](Images\Routes_vs_flighttime.jpg)
+![Routes vs Flighttime](./Images/Routes_vs_flighttime.jpg)
 
-![Airline on time Perfomance](Images\Airlineontimeperformance.jpg)
+![Airline on time Perfomance](./Images/Airlineontimeperformance.jpg)
 
 # Conclusion
 
