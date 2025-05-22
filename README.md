@@ -37,13 +37,14 @@ I did a sample of 1000 rows for my analysis. I used 9 columns, which included va
 - `Route`: concatenation of `AirportFrom` and `AirportTo`
 
 # Results
+- Alaska Airlines(AS),OH and YV have the lowest average delays.                      
 
 ![AirlinesvsDelay](./Images/Airlines_vs_delay.jpg)
-
+- 3rd, 1st, and 2nd days of the week are the busiest.
 ![DaysoftheweekvsFlights](./Images/Dayoftheweek_vs_no._of_flights.jpg)
-
+- The airport routes DFW→HNL,IAH→HNL and EWR→SFO have the longest total flight time
 ![Routes vs Flighttime](./Images/Routes_vs_flighttime.jpg)
-
+- OH, OO and UA have the most consistent on-time performance.
 ![Airline on time Perfomance](./Images/Airlineontimeperformance.jpg)
 
 # Conclusion
